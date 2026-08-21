@@ -1,5 +1,6 @@
 {
  "stand": "2026-08-21",
+ "quelle": "Mietix_Preisrechner Aktuell NEU.xlsx",
  "days": 30,
  "qamax": 365,
  "weekdays": [
@@ -25,7 +26,7 @@
   1,
   1,
   1,
-  2,
+  1,
   2,
   2
  ],
@@ -99,7 +100,8 @@
     319,
     439
    ],
-   "kmPreis": 2.49
+   "kmPreis": 2.49,
+   "frSa": 450
   },
   {
    "n": "Audi RS 5 ABT",
@@ -122,7 +124,8 @@
     289,
     399
    ],
-   "kmPreis": 2.29
+   "kmPreis": 2.29,
+   "frSa": 349
   },
   {
    "n": "Audi RS 3 Limousine",
@@ -145,7 +148,8 @@
     249,
     349
    ],
-   "kmPreis": 1.99
+   "kmPreis": 1.99,
+   "frSa": 249
   },
   {
    "n": "Golf 8 GTI Clubsport",
@@ -168,7 +172,8 @@
     219,
     309
    ],
-   "kmPreis": 1.79
+   "kmPreis": 1.79,
+   "frSa": 199
   },
   {
    "n": "Audi RS 6",
@@ -191,7 +196,8 @@
     319,
     439
    ],
-   "kmPreis": 2.49
+   "kmPreis": 2.49,
+   "frSa": 450
   },
   {
    "n": "GLC 63 S AMG",
@@ -214,7 +220,8 @@
     289,
     399
    ],
-   "kmPreis": 2.29
+   "kmPreis": 2.29,
+   "frSa": 349
   },
   {
    "n": "C 63 S AMG",
@@ -237,7 +244,8 @@
     289,
     399
    ],
-   "kmPreis": 2.29
+   "kmPreis": 2.29,
+   "frSa": 349
   },
   {
    "n": "Audi R8 performance",
@@ -260,7 +268,8 @@
     379,
     509
    ],
-   "kmPreis": 2.99
+   "kmPreis": 2.99,
+   "frSa": 499
   },
   {
    "n": "Mercedes E 400 d",
@@ -283,7 +292,8 @@
     149,
     199
    ],
-   "kmPreis": 1.29
+   "kmPreis": 1.29,
+   "frSa": 199
   },
   {
    "n": "Golf 8 2.0 Diesel",
@@ -306,7 +316,8 @@
     99,
     129
    ],
-   "kmPreis": 0.89
+   "kmPreis": 0.89,
+   "frSa": 129
   }
  ]
 }
