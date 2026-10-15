@@ -1,5 +1,5 @@
 {
- "stand": "2026-08-21",
+ "stand": "2026-10-15",
  "quelle": "Mietix_Preisrechner Aktuell NEU.xlsx",
  "days": 30,
  "qamax": 365,
@@ -272,30 +272,6 @@
    "frSa": 499
   },
   {
-   "n": "Mercedes E 400 d",
-   "anzeige": "Mercedes E 400 d",
-   "gp": 149.0,
-   "kaution": 1000,
-   "zf": [
-    0,
-    15,
-    30,
-    45,
-    60,
-    60
-   ],
-   "km": [
-    0,
-    55,
-    89,
-    119,
-    149,
-    199
-   ],
-   "kmPreis": 1.29,
-   "frSa": 199
-  },
-  {
    "n": "Golf 8 2.0 Diesel",
    "anzeige": "VW Golf 8 2.0 Diesel",
    "gp": 99.0,
@@ -318,6 +294,54 @@
    ],
    "kmPreis": 0.89,
    "frSa": 129
+  },
+  {
+   "n": "Mercedes S 580L AMG",
+   "anzeige": "Mercedes S 580L AMG",
+   "gp": 349.0,
+   "kaution": 1950,
+   "zf": [
+    0,
+    20,
+    40,
+    60,
+    80,
+    80
+   ],
+   "km": [
+    0,
+    109,
+    189,
+    259,
+    319,
+    439
+   ],
+   "kmPreis": 2.49,
+   "frSa": 450
+  },
+  {
+   "n": "BMW M 850i",
+   "anzeige": "BMW M 850i",
+   "gp": 249.0,
+   "kaution": 1450,
+   "zf": [
+    0,
+    20,
+    40,
+    60,
+    80,
+    80
+   ],
+   "km": [
+    0,
+    99,
+    169,
+    229,
+    289,
+    399
+   ],
+   "kmPreis": 2.29,
+   "frSa": 349
   }
  ]
 }
