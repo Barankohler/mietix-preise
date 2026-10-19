@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-15",
+ "stand": "2026-10-19",
  "quelle": "Mietix_Preisrechner Aktuell NEU.xlsx",
  "days": 30,
  "qamax": 365,
@@ -251,7 +251,7 @@
    "n": "Audi R8 performance",
    "anzeige": "Audi R8 performance",
    "gp": 399.0,
-   "kaution": 1950,
+   "kaution": 2500,
    "zf": [
     0,
     25,
@@ -296,8 +296,8 @@
    "frSa": 129
   },
   {
-   "n": "Mercedes S 580L AMG",
-   "anzeige": "Mercedes S 580L AMG",
+   "n": "Mercedes-Benz S580L AMG Chauffeur-Paket",
+   "anzeige": "Mercedes-Benz S580L AMG Chauffeur-Paket",
    "gp": 349.0,
    "kaution": 1950,
    "zf": [
